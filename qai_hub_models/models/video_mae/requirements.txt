@@ -1,2 +1,2 @@
 av==14.0.1
-transformers==4.53.0
+transformers==5.5.0
