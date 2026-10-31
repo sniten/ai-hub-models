@@ -1,2 +1,2 @@
-transformers==4.53.0
+transformers==5.10.1
 einops==0.3.2
